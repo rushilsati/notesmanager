@@ -40,7 +40,10 @@ To modify the existing note just press on the title/body (whatever you wanna mod
 
 
 
-DEVELOPED BY:- 
+DEVELOPED BY:-
+
 name:- Rushil Sati 
-email:- satirushil01@gmail.com 
+
+email:- satirushil01@gmail.com
+
 insta:- @rushilsati
